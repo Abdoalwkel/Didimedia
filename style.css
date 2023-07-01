@@ -1,0 +1,164 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: 'Poppins', sans-serif;
+
+}
+
+/* sec1 */
+
+.atrialSection{
+
+    width: 600px;
+    height: 42vh;
+    text-align: center;
+    line-height: 4;
+    position: relative;
+    bottom: 427px;
+    left: 404px;
+}
+
+.button{
+
+    text-decoration: none;
+    color: #fa65b1;
+    border: 1px solid;
+    padding: 12px 25px 12px 25px;
+    border-radius: 29px;
+    letter-spacing: 0.4px;
+    transition: 0.5s all ease;
+
+}
+
+.button:hover{
+color: white;
+background-color: #fa65b1;
+border: 1px solid #fa65b1;
+}
+
+.atrialSection .scandText{
+
+    text-transform: capitalize;
+    font-size: 19px;
+    letter-spacing: 1px;
+
+}
+
+
+
+
+.demos{
+display: flex;
+justify-content: space-around;
+position: relative;
+    bottom: 255px;
+}
+
+
+
+.head .demos .demo1{
+    width: 323px;
+    height: 91vh;
+    transition: all 0.5s;
+    border-radius: 14px;
+transition: all 0.5s ease;
+}
+
+
+.head .demos .demo1:hover{
+    box-shadow: 0px 3px 18px -5px black;
+
+
+
+}
+
+.head .demos .demo1 a img{
+    width: 100%;
+    border-radius: 14px;
+
+}
+
+
+
+.head .demos .demo1 h1{
+position: absolute;
+top: 38rem;
+left: 9rem;
+}
+
+.head .demos .demo2{
+
+    width: 323px;
+    height: 91vh;
+    transition: all 0.5s;
+    border-radius: 14px;
+    transition: all 0.5s ease;
+
+}
+
+
+.head .demos .demo2:hover{
+    box-shadow: 0px 3px 18px -5px black;
+
+
+
+}
+
+.head .demos .demo2 a img{
+    width: 100%;
+    border-radius: 14px;
+
+}
+
+
+
+.head .demos .demo2 h1{
+    position: absolute;
+    top: 38rem;
+    left: 36rem;
+    }
+
+.head .demos .demo3{
+
+    width: 323px;
+    height: 91vh;
+    transition: all 0.5s;
+    border-radius: 14px;
+    transition: 0.5s all ease;
+
+}
+
+
+.head .demos .demo3:hover{
+    box-shadow: 0px 3px 18px -5px black;
+
+
+
+}
+
+.head .demos .demo3 a img{
+    width: 100%;
+    border-radius: 14px;
+
+}
+
+
+.head .demos .demo3 h1{
+    position: absolute;
+    top: 38rem;
+    left: 64rem;
+        text-transform: capitalize;
+
+    }
+
+
+
+    .footer{
+        text-align: center;
+        background: linear-gradient( 45deg , #973a61 ,#f312cb ,#ed1081);
+        padding: 20px 0 1px 3px;
+
+    
+    
+    }
